@@ -1,4 +1,7 @@
-<a href="https://www.codewars.com/users/boobeh123/"><img src="https://www.codewars.com/users/boobeh123/badges/large" alt="CodeWars Badge" /></a>
+<div align="center">
+    <a href="https://www.codewars.com/users/boobeh123/">
+    <img src="https://www.codewars.com/users/boobeh123/badges/large" alt="CodeWars Badge" /></a>
+</div>
 
 
 Please visit Codewars to view my Kata & solutions. 
