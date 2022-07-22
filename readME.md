@@ -1,7 +1,5 @@
-## Hello 👋 Welcome to my Codewars repository. 
-<a href="https://www.codewars.com/users/boobeh123/"><img src="https://www.codewars.com/users/boobeh123/badges/large" alt="CodeWars Badge" /></a>
-
-To view my Kata & solutions, please visit my profile on CodeWars.
+## <a href="https://www.codewars.com/users/boobeh123/"><img src="https://www.codewars.com/users/boobeh123/badges/large" alt="CodeWars Badge" /></a>
+Please visit Codewars to view my Kata & solutions. 
 
 ## Technologies
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
