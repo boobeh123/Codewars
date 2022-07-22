@@ -1,4 +1,6 @@
 <a href="https://www.codewars.com/users/boobeh123/"><img src="https://www.codewars.com/users/boobeh123/badges/large" alt="CodeWars Badge" /></a>
+
+
 Please visit Codewars to view my Kata & solutions. 
 
 ## Codewars Code of Conduct
